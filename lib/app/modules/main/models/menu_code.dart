@@ -1,0 +1,1 @@
+enum MenuCode { HOME, DIAMOND,EMPTY ,CHAT, PROFILE }
